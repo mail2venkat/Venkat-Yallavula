@@ -70,18 +70,18 @@ Roles:
 > Fixing all Browser compatibility Issues.
 
 
-###EDUCATION
+### EDUCATION
 
 Bachelor degree 			University						 Year
 B. E Computer Science		Visvesvaraya Technological University,		2010
 
-###PERSONAL INFO
+### PERSONAL INFO
 Name: Venkatarama Krishna Y
 Mobile: 9620632778 
 Pan card #:AHZPV9088K     
 Email: mail2venkat.y@gmail.com 
 Hobbies: Riding, listening music, Movies. 
-Languages Known: English, Hindi, Telugu, Tamil, and Kannada. 
+Languages Known: English, Kannada, Telugu, Tamil, and Hindi. 
 			
 
 Venkatarama Krishna Y
