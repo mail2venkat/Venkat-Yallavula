@@ -3,24 +3,24 @@ First Git Repo &amp; Hosting
 
 # ABOUT ME
 
-MY NAME IS VENKAT 
+# MY NAME IS VENKAT 
 I am a front-end developer with 6 years and 3 months experience in web development.
 
-EXPERIENCE
-Cognizant Technology		Ogilvy	& Matter			emids Technologies
+# EXPERIENCE
+Cognizant Technology			Ogilvy	& Matter			emids Technologies
 Tech Lead				Web Designer				UXP
-Oct212014– Present 			Aug 11 2014–Oct 17 2014		Oct 2011 –19 May 2014
+Oct212014– Present 			Aug 11 2014–Oct 17 2014			Oct 2011 –19 May 2014
 
 eCentric Business Network 
 Web Designer 
 Feb 2 2011 to Oct 15 2011
 
-MY SKILLS
+# MY SKILLS
 SKILLS
 HTML & HTML5 							Angular
-CSS3 									Bootstrap
-jQuery								             	AEM UI
-Javascript								Photoshop
+CSS3 								Bootstrap
+jQuery								AEM UI
+Javascript							Photoshop
  
 Certification 
 Microsoft Certified Specialist with HTML5, JS & CSS3 (70-480)
