@@ -23,6 +23,7 @@ AEM UI
 Photoshop
  
 **Certification:** 
+
 Microsoft Certified Specialist with HTML5, JS & CSS3 (70-480)
 
 
