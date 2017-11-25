@@ -5,15 +5,16 @@ I am a front-end developer with 6 years and 3 months experience in web developme
 
 ### MY SKILLS
 
-HTML & HTML5 CSS3	
-Bootstrap 
-Angular
-jQuery
-Javascript
-AEM UI
-Photoshop
+HTML & HTML5 CSS3,	
+Bootstrap,
+Angular,
+jQuery,
+Javascript,
+AEM UI,
+Photoshop.
  
-**Certification:** Microsoft Certified Specialist with HTML5, JS & CSS3 (70-480)
+### Certification: 
+Microsoft Certified Specialist with HTML5, JS & CSS3 (70-480)
 
 
 **My Work:** Roles& Responsibilities
