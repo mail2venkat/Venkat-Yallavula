@@ -1,6 +1,3 @@
-# hello-world
-First Git Repo &amp; Hosting
-
 ## ABOUT ME
 
 ### MY NAME IS VENKAT 
